@@ -1,0 +1,21 @@
+*****Water Management System*****
+Enter Your Input
+:ALLOT_WATER 2 3:7
+:ADD_GUESTS 2
+:ADD_GUESTS 3
+:BILL
+2400 5215
+
+*****Water Management System*****
+Enter Your Input
+:ALLOT_WATER 3 2:1
+:ADD_GUESTS 4
+:ADD_GUESTS 1
+:BILL
+3000 5750
+
+*****Water Management System*****
+Enter Your Input
+:ALLOT_WATER 2 1:2
+:BILL
+900 1200
